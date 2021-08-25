@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bibek Lakra.
-- 👀 I’m interested in watching anime, playing chess as well as AR games.
+- 👀 I’m interested in painting, creating designs, animating as well as editing videos, watching anime, playing chess as well as AR games.
 - 🌱 I’m currently learning web dev and DSA.
 - 💞️ I’m looking to collaborate on Web dev projects.
 - 📫 You can reach out to me on LinkedIn (www.linkedin.com/in/bibek-lakra-10736b194).
